@@ -1,5 +1,5 @@
 """
-get in class, object of another class, as param
+get into class, object of another class, as param
 """
 
 
